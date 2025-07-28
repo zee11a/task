@@ -1,0 +1,17 @@
+footer{
+    background-color: #2C3E50;
+    height: 200px;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    
+    
+}
+.icon::before{
+    border:solid .0625rem white;
+    border-radius: 100%;
+    box-sizing:border-box;
+    padding: 5px;
+    margin: 5px;
+}

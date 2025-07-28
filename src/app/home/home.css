@@ -1,0 +1,17 @@
+section{
+background-color: #1ABC9C;
+img{
+    width: 300px;
+}
+h1{
+    margin-top:20PX ;
+    font-size: 70px;
+    color: white;
+}
+}
+.line{
+    height: 5px;
+    width: 80px;
+    background-color: white;
+}
+ 
